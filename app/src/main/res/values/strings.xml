@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">vmyeiKkgD3SlQcO416WJcwKN0aUgDrAGHBysNQgq</string>
+    <string name="back4app_client_key">KQpkn1PaZftFqpRTV4rfOUUf5NHooUh8k5lQfBPG</string>
+</resources>
